@@ -1,0 +1,2 @@
+## Image Entropy
+This is a small demo of a method of calculating the information content of an image (image entropy). Specifically, this method computes the Shannon entropy of the histogram of gradient magnitudes of each pixel in an image, which captures spatial information better than simply computing Shannon entropy for the histogram of raw pixel intensity values. To read more about this, check out my post at https://ciotinga.com
